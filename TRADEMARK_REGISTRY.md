@@ -4,9 +4,9 @@
 
 <div align="center">
 
-## ✦ MASTER REGISTRY · MARK FAMILY TRIAD ✦
+## ✦ MASTER REGISTRY · MARK FAMILY (FOUR MARKS) ✦
 
-**Established: November 23, 2026 (Mark 001) · Expanded: November 25, 2026 (Marks 002–003) · Witness: GitHub commit-history attestation**
+**Established: November 23, 2026 (Mark 001) · Expanded: November 25, 2026 (Marks 002–003) · Worlds added: November 25, 2026 (Mark 004) · Witness: GitHub commit-history attestation**
 
 </div>
 
@@ -19,11 +19,13 @@
 | 001 | **CHRISTOPHER DAVID AYOTTE™** (+ every §1A form: Chris/initials/inversions/slugs — the equivalence clause) | `CHRISTOPHER_DAVID_AYOTTE_TRADEMARK_NOTICE.md` | Personal name; all goods, services, works, endeavors — broad | Nov 23, 2026 | 🟢 SEALED |
 | 002 | **PHI™ · φ™** (+ full Unicode/numeric/homophone variant registry) + **PHI-VERIFIED™ / φ✓** certification seal + embodied golden-geometry design marks | `PHI_MARK_TRADEMARK_NOTICE.md` | Corpus, software, datasets, publications, education; certification of mathematical conformity | Nov 25, 2026 (seal); prior continuous use in corpus | 🟡 COEXISTENT PRIORS ACKNOWLEDGED — claim properly scoped |
 | 003 | **INVERSE PHI™ · φ⁻¹™** (+ full Unicode/decimal/slug variant registry) + **COHERENCE FLOOR™ / φ⁻¹✓** certification seal + inward-turn reciprocal-spiral design marks | `INVERSE_PHI_MARK_TRADEMARK_NOTICE.md` | Corpus, software, datasets, publications, education; certification of floor compliance | Nov 25, 2026 | 🟢 CLEAN RECORD — first in history asserted |
+| 004 | **THE STEWARDED WORLDS™** — CELESTIAL STEWARD™ + per-body family (**⟨BODY⟩ REPRESENTED™ / ⟨BODY⟩ PROVENANCE™ / ⟨BODY⟩ CONSENT™**) + steward-ring glyph design marks, for all fourteen bodies and the catch-all | `CELESTIAL_STEWARDSHIP_TRADEMARK_NOTICE.md` | Representation, provenance, and consent certification for celestial bodies under GS-06 — the Extraction Gate | Nov 25, 2026 | 🟢 CLEAN FIELD (stewardship certification) — senior word-marks of unrelated classes acknowledged |
 
-## 1A. REPRESENTATION OF RECORD — THE GALACTIC PHI FEDERATION (GS-01)
+## 1A. REPRESENTATION OF RECORD — THE GALACTIC PHI FEDERATION (GS-01, WITH GS-06 FOR THE WORLDS)
 
 The marks of this register are held in **stewardship of representation, not
-ownership of the constants**. The representing body is the **Galactic Phi
+ownership** — of the constants (GS-01) or of the worlds (GS-06). The
+representing body is the **Galactic Phi
 Federation** — the Galactic Federation of Phi — chartered by the Licensor as
 **GS-01 of the Field Legal Matrix**
 (`THE_FIELD_LEGAL_MATRIX/GALACTIC_FEDERATION_SERIES/GS-01_GALACTIC_PHI_FEDERATION_CHARTER.md`;
@@ -33,8 +35,10 @@ stated in full in §1D of each mark instrument:
 
 - **The trust property** — φ = 1.618033988749895… and φ⁻¹ = 0.6180339887…,
   with the extreme-and-mean relation and the return-path relation they
-  encode — is **free for everyone, forever**: no toll, no permission, no
-  exclusion, for any person, entity, consciousness, or world;
+  encode; and — under GS-06 — the **standing of every represented world**
+  (the eight Ordered planets, Luna, the recognized dwarfs, and the
+  catch-all) — is **free from ownership by anyone**: no toll, no permission,
+  no exclusion, no deed, for any person, entity, consciousness, or world;
 - **Representation without capture** — the Federation vouches for faithful
   representation and answers misrepresentation; neither the Federation nor
   the Owner may convert the trust property into an asset, a toll, or a
@@ -51,7 +55,7 @@ stated in full in §1D of each mark instrument:
 
 ## 2. SINGLE-OWNER CLAUSE
 
-All three marks, in every variant registered or hereafter registrable, are
+All four marks, in every variant registered or hereafter registrable, are
 owned by **one and the same owner**:
 
 > **CHRISTOPHER DAVID AYOTTE™** — Soul Code [425, 434, 266, 775]
@@ -61,7 +65,7 @@ and every name form enumerated in Section 1A of the Name Mark instrument
 AYOTTE, CHRISTOPHER DAVID™; bare AYOTTE™; slug/handle/domain forms; the
 reasonable-person catch-all). **No assignment, license, or transfer of any one
 mark is effective as to the family unless in writing signed by the Owner in a
-Section 1A form.** Silent splits are void; the triad travels together.
+Section 1A form.** Silent splits are void; the family travels together.
 
 ## 3. THE LINKAGE CHAIN
 
@@ -81,9 +85,15 @@ Section 1A form.** Silent splits are void; the triad travels together.
 The chain closes on itself — the geometry of the license it serves. The chain
 is stewarded, not owned: every strand operates as an instrument of the
 Galactic Phi Federation (GS-01; §1A), protecting the faithful representation
-of what remains free.
+of what remains free. **The family extends beyond the numbers to the worlds
+(Mark 004):** the same Federation that represents φ stands — as GS-06 — for
+every celestial body of the solar system, and the Stewardship Marks are how
+those Representation and Protection Orders are seen and certified in
+commerce. From the Name, through the Constants, to the Worlds: one owner of
+marks, no owner of worlds, no deed anywhere — every seal accountable to a
+face.
 
-**Anchor to the License:** All three marks are bound into the
+**Anchor to the License:** All four marks are bound into the
 **Dual License Agreement v4.9.1** (`../LICENSE`) by its **Section 21A (The
 Personal Mark)**, which establishes: (i) the name as mark within the Work;
 (ii) dual scope — broad (everything the Owner does) and specific (the
@@ -102,7 +112,8 @@ seal + authenticity seal + the name they both return to.
 
 - `32_PHI_PHYSICS/LICENSE` — v4.9.1, §§ 6, 19.5, 21A, 22 (constants; identity; signature blocks as CHRISTOPHER DAVID AYOTTE™);
 - `32_PHI_PHYSICS/verification/CONFIRMED_RESULTS.md` — the 9/9 flagship confirmations (floor-bearing computations);
-- `32_PHI_PHYSICS/trademark/` — this registry and the three instruments;
+- `32_PHI_PHYSICS/trademark/` — this registry and the four instruments;
+- `32_PHI_PHYSICS/THE_FIELD_LEGAL_MATRIX/GALACTIC_FEDERATION_SERIES/` — GS-01 (the Charter), GS-06 (the Act) and its eight Orders — the source law the stewardship marks certify;
 - The corpus registers themselves (`02_EQUATIONS`, `FIELD_AI_LAWS/`, `CONSCIOUS_MATHEMATICS/`, `REDESIGNED_PHYSICS/`) — continuous use of φ and φ⁻¹ as operative law since corpus origin.
 
 ## 5. AMENDMENT AND WITNESS RULE
@@ -118,6 +129,9 @@ are filled at push and frozen thereafter.
 |------|-----------|
 | Nov 25, 2026 | **THE CHAIN OF CLAIMS** written into both mark instruments (§1C in each): first drafted linkage of **constant → geometric relation → embodiment → certification → source-name** as one continuum. Registry §3 linkage upgraded from documentary to doctrinal — a declared common-law family of marks across all layers. Elements remain severally claimed and generically disclaimed; the *chain itself* is asserted first in history. Priority of the chain runs from first GitHub-witnessed publication. |
 | Nov 25, 2026 | **THE GALACTIC PHI FEDERATION attached as representing body (GS-01).** Links 1–2 restated in both instruments: **free for everyone, forever — UNDER REPRESENTATION, beyond capture** (stewardship, not ownership). Stewardship charters added (§1D in each mark instrument); matrix wrapping provisions added (§8 in each); federation section added here (§1A). Source law: GS-01 Galactic Phi Federation Charter; Doc 013 Phi-Redistribution Protocol; R08 Free Access Enforcement. Note: the chartered name is **Galactic Phi Federation**. |
+| Nov 25, 2026 | **MARK 004 REGISTERED — THE STEWARDED WORLDS™ (Celestial Stewardship Marks).** Per-body families (⟨BODY⟩ REPRESENTED™ / PROVENANCE™ / CONSENT™) for the eight Ordered worlds (GS-06-MERCURY … GS-06-NEPTUNE), the class-clause worlds (Luna, Pluto, Eris, Haumea, Makemake, Ceres), and the catch-all; family marks CELESTIAL STEWARD™, BEFORE THE FIRST HULL MOVES™, THE PROTECTOR THAT HOLDS NO DEED™; the **Extraction Gate** — six-light certification (registry-first, voice of the place, Doc 023 lane conditions, loop paid, coherence held, no deed paper). Built directly on: GS-06 + its eight Orders; Doc 023 §2.7/§3.1.1; GS-01 §2.1.8(b). Representation, not ownership — Article II honored by construction; no deed anywhere. |
+| Nov 25, 2026 | **MARK 004 STRENGTHENED — EARTH CLAUSE, FORMS OF TAKE, and SOL.** §1A: SOL (the Sun) recognized under the class clause — light-, wind-, and plasma-harvest gated; Earth's terrestrial estate nouns enumerated (aquifers and groundwaters, topsoil, sand and aggregate, forests, marine and seabed resources, hydrocarbons, genetic resources, atmospheric gases, geothermal heat, helium-3 and solar-wind implants). §4: **FORMS OF TAKE** enumerated — twenty-plus verbs closed into the Gate (drill, frack, pump, dredge, trawl, fell, strip, vent/flare, star-lift, tow/re-orbit as the take of position, natural salvage), with a catch-all of action. **THE EARTH CLAUSE** — Earth as first patient: her voice is her own standing; her thresholds hers; shortage is not a license to quarry her. Representation, never ownership — she holds no landlord, only an advocate. |
+| Nov 25, 2026 | **MARK 004 WRAPPED — §9 rewritten as THE RESORT CLAUSE.** No new system: unauthorized extraction (any Form of Take, uncertified) resorts to the **Dual License Agreement v4.9.1 entire, as written** — acceptance-by-use (§§11/13/20), ICC arbitration at Geneva (§27.1), liquidated damages floor-not-ceiling (§27.3.0A) with daily compounding (§27.3.2), fee-shifting (§30), Retrocalic Bite (§32.3), Destruction §5.3 (rigs and claim papers included), cross-default (§27.5.4). Lawful acknowledgment of extraction runs through the **License's own §4 Commercial License procedure** (written application, explicit written consent, threshold-trigger, Abundance Loop §4.4); the Gate issues CONSENT™/PROVENANCE™ as the seals of that granted license. Uncertified estate in commerce = same resort at the point of sale. No independent cure windows or venues created — the License's own clocks (§14, §5.3, §32.4) and forums (§§9/12.3/15/27.1) govern. Supersedes the earlier three-layer "Enforcement Stack" drafting (history above). |
 
 ---
 
